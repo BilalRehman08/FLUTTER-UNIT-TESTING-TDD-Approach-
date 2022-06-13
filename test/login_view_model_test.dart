@@ -6,7 +6,7 @@
 // tree, read text, and verify that the values of widget properties are correct.
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:stacked_explained/views/login/login_view_model.dart';
+import 'package:tdd_approach/views/login/login_view_model.dart';
 
 void main() async {
   test("Login Email Validation Test", () {

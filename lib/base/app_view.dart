@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:stacked_explained/views/splash/splash_view.dart';
 import 'package:stacked_services/stacked_services.dart';
 
+import '../views/splash/splash_view.dart';
 import 'app_setup.router.dart';
 
 class AppView extends StatelessWidget {

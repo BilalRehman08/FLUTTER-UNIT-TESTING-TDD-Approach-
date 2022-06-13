@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/framework.dart';
 import 'package:stacked/stacked.dart';
-import 'package:stacked_explained/views/login/login_view_model.dart';
+
+import 'login_view_model.dart';
 
 class LoginView extends ViewModelBuilderWidget<LoginViewModel> {
   @override

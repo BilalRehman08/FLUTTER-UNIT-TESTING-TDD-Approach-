@@ -117,7 +117,7 @@
     },
     {
       "name": "convert",
-      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/convert-3.0.1",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/convert-3.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -129,7 +129,7 @@
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.4",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.5",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -429,25 +429,25 @@
     },
     {
       "name": "stacked",
-      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/stacked-2.3.8",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/stacked-2.3.12",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "stacked_core",
-      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/stacked_core-1.1.0",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/stacked_core-1.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     },
     {
       "name": "stacked_generator",
-      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/stacked_generator-0.6.5",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/stacked_generator-0.6.6+1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "stacked_services",
-      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/stacked_services-0.8.24",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/stacked_services-0.8.26",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -530,7 +530,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2022-06-13T18:56:58.094264Z",
+  "generated": "2022-06-13T19:00:33.075418Z",
   "generator": "pub",
   "generatorVersion": "2.17.1"
 }

@@ -1,9 +1,10 @@
 import 'package:stacked/stacked_annotations.dart';
-import 'package:stacked_explained/services/auth_service.dart';
-import 'package:stacked_explained/views/home/home_view.dart';
-import 'package:stacked_explained/views/login/login_view.dart';
-import 'package:stacked_explained/views/splash/splash_view.dart';
 import 'package:stacked_services/stacked_services.dart';
+
+import '../services/auth_service.dart';
+import '../views/home/home_view.dart';
+import '../views/login/login_view.dart';
+import '../views/splash/splash_view.dart';
 
 @StackedApp(routes: [
   MaterialRoute(page: SplashView, initial: true),

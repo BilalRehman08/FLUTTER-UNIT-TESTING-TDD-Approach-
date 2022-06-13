@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:stacked/stacked.dart';
-import 'package:stacked_explained/base/app_setup.locator.dart';
-import 'package:stacked_explained/base/app_setup.router.dart';
-import 'package:stacked_explained/services/auth_service.dart';
 import 'package:stacked_services/stacked_services.dart';
+
+import '../../base/app_setup.locator.dart';
+import '../../base/app_setup.router.dart';
+import '../../services/auth_service.dart';
 
 class LoginViewModel extends BaseViewModel {
   AuthService get _authService => locator<AuthService>();
